@@ -1,4 +1,4 @@
-#Sistemsko programiranje - Projekat I
+# Sistemsko programiranje - Projekat I
 
 Kreirati Web server koji klijentu za zahtevane fajlove kreira zip arhivu i vraća je klijentu. Svi
 zahtevi serveru se šalji preko browser-a korišćenjem GET metode. U zahtevu se kao parametri
